@@ -1,0 +1,12 @@
+{
+    "name" :"typechin",
+    "version" : "1.0.0",
+    "description" : "Learning Typescript by making a Blockchain with it",
+    "repository" : "https://github.com/shaorin62/Typechain",
+    "author" : "shaorin62 : Ohsehoon <shaorin62@gmail.com>",
+    "license" : "It's me",
+    "scripts": {
+        "start" : "node index.js",
+        "prestart" : "tsc"
+    }
+}
